@@ -15,5 +15,8 @@
     "url": "https://github.com/santhoshrasco/Namaste/issues"
   },
   "homepage": "https://github.com/santhoshrasco/Namaste#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
